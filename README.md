@@ -1,4 +1,4 @@
-# Boilerplate and Starter Server for Next JS 12+, Express and TypeScript
+# 🚀 Boilerplate and Starter Server for Next JS 12+, Express and TypeScript
 
 🚀 Boilerplate and Starter for Next.js, Express and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged.
 
