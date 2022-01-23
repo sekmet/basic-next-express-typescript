@@ -39,6 +39,15 @@ cd my-project-name
 yarn install
 ```
 
+Create a `.env.local` file and save in your root project directory.
+
+```
+NODE_ENV=development
+HOST=localhost
+PORT=3000
+
+```
+
 Then, you can run locally in development mode with live reload:
 
 ```
