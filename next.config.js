@@ -18,10 +18,10 @@ module.exports = {
   env: {
     HOST: 'localhost',
     PORT: 4100,
-    NEXTAUTH_URL: 'http://account.harmonypay.test',
-    API_SERVER_URL: 'http://api.harmonypay.test',
-    GRAPHQL_ENDPOINT: 'https://graphql.harmonypay.one/v1/graphql',
-    HASURA_SECRET: '5cc3ed37147dc100fa1da57fc37016579a667b657878e3e5764119806f17fb1a'
+    NEXTAUTH_URL: '',
+    API_SERVER_URL: '',
+    GRAPHQL_ENDPOINT: '',
+    HASURA_SECRET: ''
   },
   withBundleAnalyzer
 }
